@@ -73,7 +73,7 @@ AI Framework: Pandas, Numpy, Tensorflow
 
 | Title                                       | Contents                                  | When |
 | ------------------------------------------- | ----------------------------------------- | ---- |
-
+| ARM CORTEX Programming in inflearn          | Microprocessor Programming                | 2023 |
 
 
 #### Language
@@ -91,12 +91,12 @@ English : OPIC IH, FGLP(Exchange student in UCB(UC Berkeley) in 2019)
 ### Career
 
 ```
-FingerPrint Cards ABs in Korea
+FingerPrint Cards ABs in Korea (2022)
 
-JimboRobotics
+JimboRobotics (2021)
 
-Dgist 지능형로봇연구부 학부연구원
+Dgist 지능형로봇연구부 학부연구원 (2021)
 
-Dgist Ugrp
+Dgist Ugrp (2021)
 ```
 
