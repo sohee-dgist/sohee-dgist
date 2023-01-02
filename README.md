@@ -71,14 +71,15 @@ AI Framework: Pandas, Numpy, Tensorflow
 
 #### Online Classes
 
-
+| Title                                       | Contents                                  | When |
+| ------------------------------------------- | ----------------------------------------- | ---- |
 
 
 
 #### Language
 
 ```
-English : OPIC IH
+English : OPIC IH, FGLP(Exchange student in UCB(UC Berkeley) in 2019)
 ```
 
 
