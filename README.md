@@ -56,12 +56,17 @@ AI Framework: Pandas, Numpy, Tensorflow
 
 #### Books
 
-| 제목    | 내용    | 설명    |
-| ------- | ------- | ------- |
-| 테스트1 | 테스트2 | 테스트3 |
-| 테스트1 | 테스트2 | 테스트3 |
-| 테스트1 | 테스트2 | 테스트3 |
-
+| Title                                       | Contents                                  | When |
+| ------------------------------------------- | ----------------------------------------- | ---- |
+| Jump to Django                              | Study about Python Web Framework          | 2022 |
+| Kalman Filter is Not hard                   | Sensor Algorithm Study                    | 2021 |
+| Practical Time Series Analysis              | Time Series                               | 2021 |
+| Network Top Down Approach                   |                                           | 2021 |
+| Ros Robot Programming                       |                                           | 2021 |
+| Operating System - ProtecMedia              |                                           | 2022 |
+| AWS Could Design Pattern                    |                                           | 2021 |
+| Code Refactoring                            |                                           | 2022 |
+| Computer Systems A Programmer’s Perspective | My favorite book, I read this four times! | 2022 |
 
 
 #### Online Classes
